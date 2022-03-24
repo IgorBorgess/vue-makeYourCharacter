@@ -1,0 +1,142 @@
+{
+  "sheets": {
+    "races": [
+      {
+        "id": 1,
+        "tipo": "Dragonborn"
+      },
+      {
+        "id": 2,
+        "tipo": "Dwarf"
+      },
+      {
+        "id": 3,
+        "tipo": "Elven"
+      },
+      {
+        "id": 4,
+        "tipo": "Gnome"
+      },
+      {
+        "id": 5,
+        "tipo": "Half-Elven"
+      },
+      {
+        "id": 6,
+        "tipo": "Half-Orc"
+      },
+      {
+        "id": 7,
+        "tipo": "Halfling"
+      },
+      {
+        "id": 8,
+        "tipo": "Human"
+      },
+      {
+        "id": 9,
+        "tipo": "Tiefling"
+      },
+      {
+        "id": 10,
+        "tipo": "Orc"
+      }
+    ],
+    "classifications": [
+      {
+        "id": 1,
+        "tipo": "Bard"
+      },
+      {
+        "id": 2,
+        "tipo": "Cleric"
+      },
+      {
+        "id": 3,
+        "tipo": "Druid"
+      },
+      {
+        "id": 4,
+        "tipo": "Fighter"
+      },
+      {
+        "id": 5,
+        "tipo": "Mage"
+      },
+      {
+        "id": 6,
+        "tipo": "Monk"
+      },
+      {
+        "id": 7,
+        "tipo": "Paladin"
+      },
+      {
+        "id": 8,
+        "tipo": "Rogue"
+      },
+      {
+        "id": 9,
+        "tipo": "Wizard"
+      },
+      {
+        "id": 10,
+        "tipo": "Witch"
+      }
+    ],
+    "proficiencies": [
+      {
+        "id": 1,
+        "tipo": "Strength"
+      },
+      {
+        "id": 2,
+        "tipo": "Dexterity"
+      },
+      {
+        "id": 3,
+        "tipo": "Constitution"
+      },
+      {
+        "id": 4,
+        "tipo": "Charisma"
+      },
+      {
+        "id": 5,
+        "tipo": "Wisdom"
+      },
+      {
+        "id": 6,
+        "tipo": "Intelligence"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Requested"
+    },
+    {
+      "id": 2,
+      "tipo": "Being analyzed"
+    },
+    {
+      "id": 3,
+      "tipo": "Approved"
+    }
+  ],
+  "approvedsheets": [
+    {
+      "name": "Igor",
+      "race": "Elven",
+      "classification": "Rogue",
+      "proficiencies": [
+        "Charisma",
+        "Dexterity",
+        "Wisdom"
+      ],
+      "status": "Requested",
+      "id": 1
+    }
+  ]
+}
