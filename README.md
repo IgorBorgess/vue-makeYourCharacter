@@ -46,7 +46,6 @@ The Dungeon Master is also known as the entity behind all the events that surrou
 But wait! I'm sure there's someone out there who isn't a complete nerd like me and isn't understanding anything.
 No worries! I've made a summary in order to explain some details to bring some context to the table!
 If it isn't enough, you can always rely on the Dungeons and Dragons 5E Player's Guidebook to guide you through!
-And let's be honest, if you're willing to read it... you're not that different from me.
 ```
 <img src="src/screenshots/summary.JPG" width="1200px">
 <img src="src/screenshots/summary2.JPG" width="1200px">
