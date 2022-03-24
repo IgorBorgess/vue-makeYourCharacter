@@ -16,7 +16,7 @@ First, you need to install all dependencies. Type **npm install** in your termin
 It'll install everything it needs.
 
 After the installation is complete, you need to type **npm run serve** to start the server in your localhost, usually :8080. 
-In order to serve the database (db.json) you'll be needing to open another terminal and type **npm run backend**.
+In order to serve the database you'll be needing to open another terminal and type **npm run backend**.
 After that, you're free to go!
 ```
 
